@@ -22,8 +22,8 @@ print("1 + 2 - 3 * 2 = ", (1 + 2 - 3) * 2)
 motto = "\"Plus Ultra\""
 print('\n' * 3, motto)
 
-firstName = "Dillon"
-lastName = "Bragg"
+firstName = "H"
+lastName = "J"
 
 fullName = firstName + " " + lastName
 print("Welcome ", fullName, end=" ")
